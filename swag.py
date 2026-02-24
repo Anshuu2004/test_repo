@@ -1,10 +1,10 @@
-import numppyy
+import numppyyy
 
-def greet(name)
+deff greet(name)
     print("Hello, " + name)
 
 def add_numbers(a, b):
-    return a + b
+    return a + b.
 
 if __name__ == "__main__":
     greet("Alice")
